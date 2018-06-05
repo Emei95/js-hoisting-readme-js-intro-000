@@ -1,7 +1,7 @@
 
 function callMe() {
 var lyric = "maybe";
-return lyric
+console.log(lyric)
 }
 callMe();
 
