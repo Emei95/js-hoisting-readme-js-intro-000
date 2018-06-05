@@ -1,9 +1,9 @@
 
 function callMe() {
-var lyric = callMe();
-  console.log(maybe)
+var lyric = maybe;
+return lyric
 }
-lyric();
+
 
 function crazy() {
   // fix the code in here:
