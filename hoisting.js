@@ -3,7 +3,7 @@ function callMe() {
 var lyric = "maybe";
 return lyric
 }
-
+callMe();
 
 function crazy() {
   // fix the code in here:
