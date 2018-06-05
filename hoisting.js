@@ -5,12 +5,11 @@ return lyric
 }
 callMe();
 
-function crazy() {
-var thisIsCrazy = function crazy(){
+function crazy(){
     console.log("hey!!!")
+    var thisIsCrazy = function crazy()
     thisIsCrazy();
   }
-}
 
 function sayMyName() {
   // fix the code in here:
